@@ -1,0 +1,9 @@
+[30-Oct-2013 23:40:43 Europe/Berlin] PHP Fatal error:  Cannot re-assign auto-global variable _FILES in /Volumes/Borba PRJs/workspace/www/VolvoApp/service2.0/apiCOMMON.php on line 559
+[30-Oct-2013 23:41:05 Europe/Berlin] PHP Fatal error:  Cannot re-assign auto-global variable _FILES in /Volumes/Borba PRJs/workspace/www/VolvoApp/service2.0/apiCOMMON.php on line 559
+[30-Oct-2013 23:42:05 Europe/Berlin] PHP Notice:  Undefined variable: usuario in /Volumes/Borba PRJs/workspace/www/VolvoApp/service2.0/apiDASHBOARD.php on line 1646
+[30-Oct-2013 23:42:05 Europe/Berlin] PHP Notice:  Undefined variable: nome_completo in /Volumes/Borba PRJs/workspace/www/VolvoApp/service2.0/apiDASHBOARD.php on line 1646
+[30-Oct-2013 23:42:05 Europe/Berlin] PHP Notice:  Undefined index: error in /Volumes/Borba PRJs/workspace/www/VolvoApp/service2.0/apiDASHBOARD.php on line 1650
+[30-Oct-2013 23:42:05 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Volumes/Borba PRJs/workspace/www/VolvoApp/service2.0/apiDASHBOARD.php:1646) in /Volumes/Borba PRJs/workspace/www/VolvoApp/service2.0/common.php on line 166
+[30-Oct-2013 23:51:21 Europe/Berlin] PHP Notice:  Undefined variable: usuario in /Volumes/Borba PRJs/workspace/www/VolvoApp/service2.0/apiDASHBOARD.php on line 1646
+[30-Oct-2013 23:51:21 Europe/Berlin] PHP Notice:  Undefined variable: nome_completo in /Volumes/Borba PRJs/workspace/www/VolvoApp/service2.0/apiDASHBOARD.php on line 1646
+[30-Oct-2013 23:51:21 Europe/Berlin] PHP Notice:  Undefined index: error in /Volumes/Borba PRJs/workspace/www/VolvoApp/service2.0/apiDASHBOARD.php on line 1650
