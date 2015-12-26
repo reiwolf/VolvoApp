@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>IPSec</key>
+			<dict>
+				<key>AuthenticationMethod</key>
+				<string>SharedSecret</string>
+				<key>SharedSecret</key>
+				<data>
+				c01wbW5JUntUczNJb0VvOVRGRks=
+				</data>
+			</dict>
+			<key>IPv4</key>
+			<dict>
+				<key>OverridePrimary</key>
+				<integer>0</integer>
+			</dict>
+			<key>PPP</key>
+			<dict>
+				<key>CommRemoteAddress</key>
+				<string>200.150.121.44</string>
+			</dict>
+			<key>PayloadDescription</key>
+			<string>VPN settings for </string>
+			<key>PayloadDisplayName</key>
+			<string> VPN</string>
+			<key>PayloadIdentifier</key>
+			<string>interno.projeto.serverSettings.vpn.l2tp.vpn</string>
+			<key>PayloadType</key>
+			<string>com.apple.vpn.managed</string>
+			<key>PayloadUUID</key>
+			<string>B4F0B897-EB39-4F43-8DE7-9F1D7A6DEC41</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+			<key>UserDefinedName</key>
+			<string>VPN (projeto.interno)</string>
+			<key>VPNType</key>
+			<string>L2TP</string>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>VPN settings for </string>
+	<key>PayloadDisplayName</key>
+	<string>VPN</string>
+	<key>PayloadIdentifier</key>
+	<string>interno.projeto.serverSettings.vpn.l2tp</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>CBE4875B-72AD-4D64-B2C8-19AFF824F137</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
